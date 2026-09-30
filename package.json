@@ -1,0 +1,28 @@
+{
+  "name": "responsi_mod1_ppb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tederby/Responsi_Mod1_PPB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tederby/Responsi_Mod1_PPB/issues"
+  },
+  "homepage": "https://github.com/Tederby/Responsi_Mod1_PPB#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
