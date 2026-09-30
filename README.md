@@ -2,7 +2,7 @@
 
 Proyek REST API untuk manajemen dan pencatatan transaksi peminjaman buku perpustakaan oleh anggota. Menggunakan **Node.js**, **Express.js**, dan **Supabase (PostgreSQL)**, serta dikonfigurasi siap untuk dideploy ke **Vercel**.
 
-- **Deployment Vercel**: (Sedang dideploy)
+- **Deployment Vercel**: https://responsi-mod1-ppb.vercel.app/
 
 ---
 
